@@ -38,6 +38,7 @@ body.dark-theme {
 
   button:hover {
     background-color: rgb(255, 255, 255);
+    cursor: pointer;
   }
 
   h1, p {
